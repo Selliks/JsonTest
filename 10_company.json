@@ -1,0 +1,140 @@
+{
+  "name": "Center for Special Operations 'A' of the SSU",
+  "departments": [
+    {
+      "name": "Command Unit",
+      "employees": [
+        {
+          "name": "Alexander Petrov",
+          "position": "Head of Center",
+          "salary": 50000
+        },
+        {
+          "name": "Iryna Koval",
+          "position": "Deputy Head",
+          "salary": 45000
+        }
+      ]
+    },
+    {
+      "name": "Operational Groups",
+      "employees": [
+        {
+          "name": "Dmytro Savchenko",
+          "position": "Special Forces Group Commander",
+          "salary": 40000
+        },
+        {
+          "name": "Leonid Bondar",
+          "position": "Operative Officer",
+          "salary": 30000
+        }
+      ]
+    },
+    {
+      "name": "Anti-Terrorist Unit",
+      "employees": [
+        {
+          "name": "Maria Lysenko",
+          "position": "Unit Leader",
+          "salary": 42000
+        },
+        {
+          "name": "Serhiy Tkachenko",
+          "position": "Anti-Terrorism Specialist",
+          "salary": 35000
+        }
+      ]
+    },
+    {
+      "name": "Personal Security Unit",
+      "employees": [
+        {
+          "name": "Olena Hrytsenko",
+          "position": "Unit Leader",
+          "salary": 40000
+        },
+        {
+          "name": "Victor Melnyk",
+          "position": "Security Guard",
+          "salary": 32000
+        }
+      ]
+    },
+    {
+      "name": "Analytical Department",
+      "employees": [
+        {
+          "name": "Natalia Shevchenko",
+          "position": "Chief Analyst",
+          "salary": 38000
+        },
+        {
+          "name": "Andriy Romanenko",
+          "position": "Analyst",
+          "salary": 34000
+        }
+      ]
+    },
+    {
+      "name": "Technical Support Unit",
+      "employees": [
+        {
+          "name": "Ihor Vasylenko",
+          "position": "Unit Leader",
+          "salary": 37000
+        },
+        {
+          "name": "Oleksii Doroshenko",
+          "position": "Engineer",
+          "salary": 33000
+        }
+      ]
+    },
+    {
+      "name": "Logistics Support Unit",
+      "employees": [
+        {
+          "name": "Svitlana Moroz",
+          "position": "Unit Leader",
+          "salary": 36000
+        },
+        {
+          "name": "Pavlo Kravchenko",
+          "position": "Logistician",
+          "salary": 32000
+        }
+      ]
+    },
+    {
+      "name": "Medical Unit",
+      "employees": [
+        {
+          "name": "Halyna Oliinyk",
+          "position": "Chief Doctor",
+          "salary": 40000
+        },
+        {
+          "name": "Mykola Sydorenko",
+          "position": "Medical Worker",
+          "salary": 35000
+        }
+      ]
+    },
+    {
+      "name": "Training Unit",
+      "employees": [
+        {
+          "name": "Valentyna Rudenko",
+          "position": "Unit Leader",
+          "salary": 38000
+        },
+        {
+          "name": "Roman Levchenko",
+          "position": "Instructor",
+          "salary": 34000
+        }
+      ]
+    }
+  ]
+}

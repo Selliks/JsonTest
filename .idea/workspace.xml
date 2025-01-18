@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7eda8ef0-7613-4f16-af50-68d11116cd87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/1_Jsonchiki.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_creating_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_reading_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_creating_movie_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_filtration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_change.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_BIGdata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_large_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_isvalid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_automatic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_company.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_units.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Selliks"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Selliks/JsonTest.git",
+    "accountId": "e3ca5d0c-119a-45fd-ab85-4e29b2adc20c"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2rWZKhbpZ3zh3Mphnf5fHkNVGJU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.10_units.executor": "Run",
     "Python.1_creating_json.executor": "Run",
     "Python.2_reading_json (1).executor": "Run",
     "Python.3_creating_movie_json.executor": "Run",
@@ -60,7 +60,7 @@
     "Python.creating_json.executor": "Run",
     "Python.reading_json.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/dimah/PycharmProjects/1_Jsonchiki"
   }
 }]]></component>
@@ -72,8 +72,8 @@
       <recent name="C:\Users\dimah\PycharmProjects\1_Jsonchiki" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9_automatic">
-    <configuration name="1_creating_json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10_units">
+    <configuration name="10_units" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1_Jsonchiki" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_creating_json.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_units.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10_units" />
         <item itemvalue="Python.9_automatic" />
         <item itemvalue="Python.8_isvalid" />
         <item itemvalue="Python.7_BIGdata" />
         <item itemvalue="Python.6_change" />
-        <item itemvalue="Python.1_creating_json" />
       </list>
     </recent_temporary>
   </component>
