@@ -1,0 +1,22 @@
+[
+    {
+        "name": "John Smith",
+        "age": 20,
+        "average_score": 95
+    },
+    {
+        "name": "Alice Brown",
+        "age": 22,
+        "average_score": 88
+    },
+    {
+        "name": "Emily Davis",
+        "age": 19,
+        "average_score": 91
+    },
+    {
+        "name": "Michael Lee",
+        "age": 21,
+        "average_score": 85
+    }
+]

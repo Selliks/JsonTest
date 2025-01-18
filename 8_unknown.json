@@ -1,0 +1,1 @@
+"\n{\n    \"name\": \"Product 1\",\n    \"price\": 1500,\n    \"quantity\": 5,\n    \"details\": { \"brand\": \"BrandX\", \"color\": \"Red\" }  // Некоректний коментар\n}\n"
